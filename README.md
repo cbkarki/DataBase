@@ -1,5 +1,5 @@
 # Student Academic Pipeline
-This database stores information of students for application untill graduation. A typical pipeline is students starts with application, admission, enrollment and ends with graduation.
+This database stores information of students for application untill graduation. A typical pipeline is students starts with application, get admission, get enrolled and ends with graduation.
 
 ## Data Base Structure
 This database has three layers,

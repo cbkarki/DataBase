@@ -1,6 +1,12 @@
 # Student Academic Pipeline
 This database stores information of students for application untill graduation. A typical pipeline is students starts with application, get admission, get enrolled and ends with graduation.
 
+## Data Source
+The primary data source are the .csv file. 
+
+## Tools
+Postgresql, R, Excel
+
 ## Data Base Structure
 This database has three layers,
 

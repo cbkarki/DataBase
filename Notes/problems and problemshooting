@@ -1,2 +1,4 @@
 # Issue 1.
-
+Converting excel work book to .cvs is trick specially with the white space. They were not properly dected by the Postgresql due to XA00 breaking space due to utF-8 encoding. Specially, ther trailing white space were not detected
+The issue was unsurfaced while using anti left joins to detect the new recodes of major_coded which are not present in crosswalk.
+lets try R to fix the whitespaces, before uploading .csv to the database. Other cleaning is proformed in database itself.
